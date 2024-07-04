@@ -1,0 +1,6 @@
+font_path: "opensans.ttf"
+font_size: 14
+output_width: 800
+output_height: 200
+wrap_factor: 7
+output_json_file: "output_html_tags.json"
