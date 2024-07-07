@@ -33,10 +33,10 @@ Create a `config.yaml` file in the root directory with the following structure:
 
 ```yaml
 font_path: 'path/to/font.ttf'
-font_size: 20
+font_size: 15
 output_width: 800
-output_height: 600
-wrap_factor: 40
+output_height: 200
+wrap_factor: 7
 output_json_file: 'output_html_tags.json'
 ```
 
